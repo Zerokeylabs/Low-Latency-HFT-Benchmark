@@ -14,6 +14,6 @@ This project demonstrates a high-performance "Sniper/Guard" architecture designe
 | :--- | :--- |
 | **Minimum Latency** | **300 ns** |
 | **Architecture** | Lock-Free Atomic Fuse |
-| **Hardware** | Lenovo IdeaPad (Fanless) |
+| **Hardware** | Lenovo IdeaPad |
 
 > *Note: While Windows OS jitter and thermal limits affect average latency, the 300ns minimum reflects the raw efficiency of the underlying C++ implementation.*
